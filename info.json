@@ -9,7 +9,7 @@
 	"homepage": "",
 
 	"factorio_version": "2.0",
-	"dependencies": ["BottleneckLite >= 1.3.4"],
+	"dependencies": ["BottleneckLite >= 1.3.5"],
 	"quality_required":						false,
 	"rail_bridges_required":			false,
 	"space_travel_required":			false,
