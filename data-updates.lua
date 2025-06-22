@@ -1,0 +1,1 @@
+bnl_status_icon = "__alk-bnl-status-graphic__/graphics/solid-led.png"

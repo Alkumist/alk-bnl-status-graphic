@@ -1,0 +1,20 @@
+{
+	"name": "alk-bnl-status-graphic",
+	"version": "1.0.0",
+	"title": "BNL Native Status Light",
+	"author": "Alkumist",
+	"description": "changes the status light graphic to fit in better with the factorio asthetic",
+
+	"contact": "",
+	"homepage": "",
+
+	"factorio_version": "2.0",
+	"dependencies": ["BottleneckLite >= 1.3.4"],
+	"quality_required":						false,
+	"rail_bridges_required":			false,
+	"space_travel_required":			false,
+	"spoiling_required":					false,
+	"freezing_required":					false,
+	"segmented_units_required":		false,
+	"expansion_shaders_required":	false
+}
